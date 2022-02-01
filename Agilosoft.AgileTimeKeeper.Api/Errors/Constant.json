@@ -1,0 +1,20 @@
+{
+  "200": {
+    "Message": "The Request response is OK."
+  },
+  "201": {
+    "Message":"The request has been successful."
+  },
+  "204": {
+    "Message": "The is is not content returned and request is Successful."
+  },
+  "400": {
+    "Message": "Error occured when Inserting Data. Some feilds may be missings or are incorrect."
+  },
+  "404": {
+    "Message": "The Requested Data is not Present or Found."
+  },
+  "401": {
+    "Message": "You are not authorized for this page. Please try again in sometime or contact your System Administrator."
+  }
+}

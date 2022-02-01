@@ -1,0 +1,31 @@
+{
+  "UnauthorizedAccessException": {
+    "ErrorMessage": "You are not authorized for this page. Please try again in sometime or contact your System Administrator.",
+    "ErrorCode": "401"
+  },
+  "SqlException": {
+    "ErrorMessage": "Error occured in Database Server. Please try again in sometime or contact your System Administrator.",
+    "ErrorCode": "50005"
+  },
+  "DuplicationException": {
+    "ErrorMessage": "",
+    "ErrorCode": "500051"
+  },
+  "Exception": {
+    "ErrorMessage": "Some unknown error occured. Please try again in sometime or contact your System Administrator.",
+    "ErrorCode": "500"
+  },
+  "RecordNotFoundException": {
+    "ErrorMessage": "",
+    "ErrorCode": "500052"
+  },
+  "RequestFailed": {
+    "ErrorMessage": "Error occured when Inserting Data. Some feilds may be missings or are incorrect",
+    "ErrorCode": "400"
+  },
+  "DataNotFound": {
+    "ErrorMessage": "The Requested Data is not present",
+    "ErrorCode": "404"
+  }
+
+}
